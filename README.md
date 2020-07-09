@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 <p> This project uses KNN and Decision Tree models and compares them, 
-through this project one can understand the difference between various visualisation methods and their benefits</p>
+through this project one can understand the difference between various visualization methods and their benefits</p>
 <hr>
 <p> In this project we took a dataset on heart diseases, it consists on 13 features with more than 300 training examples,
 which help us to predict whether the person has heart disease or not. </p>
